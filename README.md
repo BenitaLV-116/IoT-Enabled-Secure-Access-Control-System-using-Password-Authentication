@@ -9,8 +9,8 @@ Uses Arduino Uno, making it easy to modify and integrate with other IoT devices.
    - Arduino Uno
    - 4x4 Keypad
    - Servo Motor (SG90)
-    Jumper Wires
-    Power Supply
+   - Jumper Wires
+   - Power Supply
   Software Requirements:
-    Arduino IDE
-    Servo.h Library (for controlling the servo motor)
+    - Arduino IDE
+    - Servo.h Library (for controlling the servo motor)
